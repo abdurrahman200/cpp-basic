@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612094296 source:g:\programming\c++\c++ solved programs\printnumber\main.cpp
+	<iostream>
+	<conio.h>
+

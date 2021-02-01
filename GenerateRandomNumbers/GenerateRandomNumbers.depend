@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612098845 source:g:\programming\c++\c++ solved programs\basics\generaterandomnumbers\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612096822 source:g:\programming\c++\c++ solved programs\basics\sizeofdatatype\main.cpp
+	<iostream>
+	<conio.h>
+

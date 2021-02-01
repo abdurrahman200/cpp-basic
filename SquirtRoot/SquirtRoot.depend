@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612150310 source:g:\programming\c++\basics\squirtroot\main.cpp
+	<iostream>
+	<math.h>
+

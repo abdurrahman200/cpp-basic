@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612095027 source:g:\programming\c++\c++ solved programs\basics\addtwonumbers\main.cpp
+	<iostream>
+	<conio.h>
+
